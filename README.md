@@ -24,15 +24,13 @@ Să se proiecteze si realizeze un stabilizator de tensiune cu ERS având următo
 ## Schema bloc
 ![Schema bloc](imagini/schema_bloc.png)
 
-## Schema electrică
+## Schema electrică 
+Programul in care a fost realizata si simulator schema electrica: OrCAD 
 ![Schema electrica](imagini/schema_electrica.png)
 
 ## Simulare și rezultate
 ![Simulare](imagini/simulare.png)
-![Grafice](imagini/grafice.png)
 
-## Documentație completă
-Toate detaliile tehnice, calculele și analiza sunt în `proiect.pdf`.
 
 ## Autor
 Tănăselea Neculai
