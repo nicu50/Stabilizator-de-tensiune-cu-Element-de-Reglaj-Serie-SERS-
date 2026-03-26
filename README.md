@@ -7,7 +7,7 @@ Proiectul a fost realizat în cadrul **Universitatea Politehnica din București,
 ## Principiu de funcționare
 Stabilizatorul menține constantă tensiunea pe sarcină printr-un proces de reglare automată:
 - O fracțiune din tensiunea de ieșire este comparată cu o tensiune de referință stabilă (diodă Zener + sursă de curent constant).
-- Semnalul de eroare este amplificat și comandă elementul regulator serie (tranzistoare Darlington).
+- Semnalul de eroare este amplificat și comandă elementul regulator serie (tranzistoare în conexiune Darlington).
 - Include protecție la supracurent pentru a limita curentul maxim la 0,4 A.
 
 ## Cerințe de proiectare 
