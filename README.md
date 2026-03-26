@@ -26,7 +26,7 @@ Să se proiecteze si realizeze un stabilizator de tensiune cu ERS având următo
 
 ## Schema electrică 
 Programul in care a fost realizata si simulator schema electrica: OrCAD 
-![Schema electrica](imagini/schema_electrica.png)
+![Schema electrica](imagini/schema_electrica_revizuita.png)
 
 ## Simulare și rezultate
 ![Simulare](imagini/simulare.png)
