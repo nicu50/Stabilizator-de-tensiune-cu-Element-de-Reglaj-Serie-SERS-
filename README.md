@@ -45,7 +45,7 @@ Proiectul a fost realizat în tehnologie **SMT (Surface Mount Technology)** pe u
 ### Layout PCB (Previzualizare)
 Mai jos este prezentată captura de ecran cu layout-ul PCB-ului realizat în **OrCAD Allegro PCB Editor**.
 
-![Layout PCB](./imagini/pcb_layout.png)
+![Layout PCB](./imagini/pcb_layout.jpeg)
 
 > **Notă:** Traseele de pe stratul TOP sunt evidențiate cu roșu/galben, iar cele de pe stratul BOTTOM cu verde (în funcție de vizualizarea din editorul CAD).
 
