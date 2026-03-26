@@ -1,4 +1,4 @@
-# Stabilizator-de-tensiune-cu-Element-de-Reglaj-Serie-SERS-
+# # Stabilizator de tensiune cu Element de Reglaj Serie (SERS)
 
 ## Descriere
 Acest proiect prezintă proiectarea, simularea și analiza unui stabilizator liniar cu element de reglaj serie.  
