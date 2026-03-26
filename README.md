@@ -47,7 +47,7 @@ Mai jos este prezentată captura de ecran cu layout-ul PCB-ului realizat în **O
 
 ![Layout PCB](./imagini/pcb_layout.jpeg)
 
-> **Notă:** Traseele de pe stratul TOP sunt evidențiate cu roșu/galben, iar cele de pe stratul BOTTOM cu verde (în funcție de vizualizarea din editorul CAD).
+> **Notă:** Traseele de pe stratul TOP sunt evidențiate cu verde, iar cele de pe stratul BOTTOM cu galben.
 
 ---
 
