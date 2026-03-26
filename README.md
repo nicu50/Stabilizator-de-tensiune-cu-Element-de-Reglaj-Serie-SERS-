@@ -27,7 +27,7 @@ Să se proiecteze si realizeze un stabilizator de tensiune cu ERS având următo
 ## Schema electrică 
 ![Schema electrica](./imagini/schema_simpla_revizuita.png)
 
-## Simulare și rezultate
+## Punctul static de funcționare
 ![Simulare](imagini/psf.png)
 
 
