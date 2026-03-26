@@ -22,7 +22,7 @@ Să se proiecteze si realizeze un stabilizator de tensiune cu ERS având următo
 - Amplificarea în tensiune minimă (în buclă deschisă) a amplificatorului de eroare: 200; 
 
 ## Schema bloc
-![Schema bloc](./imagini/schema_bloc.png)
+![Schema bloc](imagini/schema_bloc.png)
 
 ## Schema electrică 
 Programul in care a fost realizata si simulator schema electrica: OrCAD 
