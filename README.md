@@ -30,6 +30,26 @@ Să se proiecteze si realizeze un stabilizator de tensiune cu ERS având următo
 ## Punctul static de funcționare
 ![Simulare](imagini/psf.png)
 
+---
+
+## Proiectare Hardware (PCB)
+
+Proiectul a fost realizat în tehnologie **SMT (Surface Mount Technology)** pe un cablaj dublu strat, respectând constrângerile de spațiu și specificațiile din tema de proiectare.
+
+### Caracteristici Tehnice Cablaj:
+* **Dimensiuni placă:** 40mm x 40mm
+* **Material:** FR4 (dublu strat)
+* **Grosime placă:** 1.5 mm
+* **Grosime folie cupru:** 18 $\mu m$
+
+### Layout PCB (Previzualizare)
+Mai jos este prezentată captura de ecran cu layout-ul PCB-ului realizat în **OrCAD Allegro PCB Editor**.
+
+![Layout PCB](./imagini/pcb_layout.png)
+
+> **Notă:** Traseele de pe stratul TOP sunt evidențiate cu roșu/galben, iar cele de pe stratul BOTTOM cu verde (în funcție de vizualizarea din editorul CAD).
+
+---
 
 ## Autor
 Tănăselea Neculai
